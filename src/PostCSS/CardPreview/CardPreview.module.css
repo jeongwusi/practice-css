@@ -1,0 +1,20 @@
+.card {
+  display: flex;
+  padding: 0px 12px 4px 12px;
+  align-items: center;
+  margin: 0 auto 0 auto;
+  width: 208px;
+  height: 123px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 3px 3px 10px #667085;
+}
+
+.chip {
+  width: 40px;
+  height: 26px;
+  background-color: #cbba64;
+  border-radius: 4px;
+}
